@@ -11,7 +11,7 @@ const checkPalindrome = (str) => {
     // Store the length of the input string in a variable
 
     if (l === 0) {
-    if ( === 0) {
+    if ( length === 0) {
       return 'Empty string'
     }
     // Iterate through the length of the string
